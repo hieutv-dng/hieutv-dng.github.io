@@ -1,11 +1,11 @@
 {
-    "name": "profile",
-    "short_name": "profile",
+    "name": "Hieu Tran Profile",
+    "short_name": "hieutv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Discover my Amazing Art Space.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
